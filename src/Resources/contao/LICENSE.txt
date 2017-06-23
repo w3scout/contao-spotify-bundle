@@ -1,0 +1,7 @@
+/**
+ * Package    	w3s_spotify
+ * Copyright  	Darko Selesi
+ * Author       Darko Selesi <hallo@w3scouts.com>
+ * Link         http://w3scouts.com
+ * License    	GNU/LGPL
+ */

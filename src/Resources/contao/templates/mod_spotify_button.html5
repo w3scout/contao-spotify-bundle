@@ -1,0 +1,11 @@
+
+<!-- indexer::stop -->
+<div class="<?php echo $this->class; ?> block"<?php echo $this->cssID; ?><?php if ($this->style): ?> style="<?php echo $this->style; ?>"<?php endif; ?>>
+<?php if ($this->headline): ?>
+<<?php echo $this->hl; ?>><?php echo $this->headline; ?></<?php echo $this->hl; ?>>
+<?php endif; ?>
+
+    <iframe src="https://embed.spotify.com/?uri=<?php echo $this->play; ?>&theme=<?php echo $this->theme; ?>&view=<?php echo $this->view; ?>" <?php if ($this->width): ?>width="<?php echo $this->width; ?>"<?php endif; ?> <?php if ($this->height): ?>height="<?php echo $this->height; ?>"<?php endif; ?> frameborder="0" allowtransparency="true"></iframe>
+
+</div>
+<!-- indexer::continue -->
