@@ -1,3 +1,2 @@
 # contao-spotify-bundle
 
-Testversion
