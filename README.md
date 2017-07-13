@@ -1,2 +1,2 @@
-# contao-spotify-bundle
+# Contao Spotify Bundle
 
