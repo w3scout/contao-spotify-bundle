@@ -1,10 +1,10 @@
 {
   "name": "w3scout/contao-spotify-bundle",
-  "homepage": "https://github.com/w3scout/contao-spotify-bundle",
   "description": "Adds a spotify button module",
   "keywords":["contao","spotify","music"],
   "type": "contao-bundle",
   "license": "LGPL-3.0+",
+  "homepage": "https://w3scouts.com",
   "authors": [
     {
       "name": "Darko Selesi",
@@ -12,6 +12,11 @@
       "role":"Developer"
     }
   ],
+  "support": {
+      "issues": "https://github.com/w3scout/contao-spotify-bundle/issues",
+      "wiki": "https://github.com/w3scout/contao-spotify-bundle/wiki",
+      "source": "https://github.com/w3scout/contao-spotify-bundle"
+  },
   "require": {
     "php": ">=5.6.0",
     "contao/core-bundle": "^4.3"
