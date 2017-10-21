@@ -32,14 +32,13 @@
 /**
  * Fields
  */
+$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn']             = array('Player Type', 'Please select the player type.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_trackset']    = array('Custom Trackset', 'Please fill in the spotify id for each song.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_uri']         = array('Spotify URI', 'Please insert the Spotify URI of a song, album or playlist.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_theme']       = array('Theme', 'Please select a theme.');
-$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_width']       = array('Breite', 'Fill in the width of the player in pixels (min. 250, max. 640).');
-$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_height']      = array('Höhe', 'Fill in the height of the player in pixels (min. 80, max. 720).');
-$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_view']        = array('Anzeige', 'Select the view of the player.');
-$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_type']        = array('Playertyp', 'Select the player type.');
-
+$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_width']       = array('Width', 'Fill in the width of the player in pixels (min. 250, max. 640).');
+$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_height']      = array('Height', 'Fill in the height of the player in pixels (min. 80, max. 720).');
+$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_view']        = array('Type of view', 'Select the view of the player.');
 
 /**
  * References
