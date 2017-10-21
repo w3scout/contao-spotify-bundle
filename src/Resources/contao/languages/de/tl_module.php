@@ -32,6 +32,8 @@
 /**
  * Fields
  */
+
+$GLOBALS['TL_LANG']['tl_module']['w3s_spotify_type']            = array('Button Typ', 'Bitte wählen Sie die Art des Buttons.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_trackset']    = array('Eigener Trackset', 'Bitte geben Sie jeweils die 22-stellige ID der Tracks ein.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_uri']         = array('Spotify URI', 'Bitte geben Sie Spotify URI eines Songs, Albums oder einer Playlist ein.');
 $GLOBALS['TL_LANG']['tl_module']['w3s_spotify_btn_theme']       = array('Theme', 'Hier können Sie das Theme auswählen.');
