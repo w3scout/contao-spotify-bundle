@@ -99,3 +99,4 @@ class ModuleSpotifyButton extends \Module
 	}
 
 }
+

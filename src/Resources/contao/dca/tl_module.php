@@ -107,3 +107,4 @@ $GLOBALS['TL_DCA']['tl_module']['fields']['w3s_spotify_btn_view'] = array
     'sql'                     => "varchar(8) NOT NULL default ''",
     'eval'                    => array('tl_class'=>'w50')
 );
+
